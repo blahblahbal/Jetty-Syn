@@ -1,0 +1,12 @@
+large
+miniscule
+tinysmall
+humungous
+medium-sized
+bread
+big
+nosy
+flatulent
+box-like
+viscous
+zombified

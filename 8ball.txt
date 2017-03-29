@@ -1,0 +1,14 @@
+$nick $+ : 4 My reply is no.
+$nick $+ : 3 Signs point to yes.
+$nick $+ : 7 Ask again later.
+$nick $+ : 3 As I see it, yes.
+$nick $+ : 7 Cannot predict now.
+$nick $+ : 3 Outlook good.
+$nick $+ : 4 My sources say no.
+$nick $+ : 11 Sorry, I don't feel like answering that now.
+$nick $+ : 3 It is decidedly so.
+$nick $+ : 3 Yes - definitely.
+$nick $+ : 8 Uhm, what?
+$nick $+ : 3 Without a doubt.
+$nick $+ : 7 Concentrate and ask again.
+$nick $+ : 4 Very doubtful.

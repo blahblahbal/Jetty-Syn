@@ -1,0 +1,9 @@
+Welcome, $nick $+ !
+Hello, $nick $+ .
+Hey, $nick $+ !
+Hi there, $nick $+ !
+What's up, $nick $+ ?
+What's crackin', $nick $+ ?
+How ya doin', $nick $+ ?
+Welcome to $chan $+ , $nick $+ !
+Top of the mornin', $nick $+ !

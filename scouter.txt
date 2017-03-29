@@ -1,0 +1,11 @@
+4 OVAR 9000
+1 0, you lose.
+13 8999
+11 -400
+7 Ask later, I'm busy
+9 Wutevr
+2 1234
+10 I'm sorry, but it doesn't appear you have a power level.
+8 Boing.
+6 UNDAR 9000
+3 Jugular veins are full of blood.

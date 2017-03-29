@@ -1,0 +1,8 @@
+Welcome, $2 $+ !
+Hello, $2 $+ .
+Hey, $2 $+ !
+Hi there, $2 $+ !
+What's up, $2 $+ ?
+What's crackin', $2 $+ ?
+How ya doin', $2 $+ ?
+Top of the mornin', $2 $+ !

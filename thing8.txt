@@ -1,0 +1,9 @@
+frog
+cat
+pile of cow dung
+planet
+amoeba
+fail
+dog
+alien
+mIRC bot. $read(thing9.txt)
